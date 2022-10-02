@@ -1,0 +1,11 @@
+.wall{
+    background-image:linear-gradient(white , rgb(226, 102, 216));
+    height: 550px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+  
+    /* src\imgs\istockphoto-1007557230-612x612.jpg */
+}

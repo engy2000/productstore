@@ -1,0 +1,14 @@
+.card{
+    
+    /* page-break-inside: auto; */
+    /* width: 200px ; */
+    margin-bottom: 15px;
+    /* border: 2px solid rgb(199, 0, 149); */
+}
+.special{
+    background-color: rgb(236, 167, 219);
+    text-align: center;
+    border-radius: 20px;
+   /* position: absolute; */
+   /* left: 30%; */
+}
